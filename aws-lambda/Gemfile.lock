@@ -3,7 +3,9 @@ GEM
   specs:
     color (1.8)
     concurrent-ruby (1.1.5)
-    mqtt (0.5.0)
+    logger (1.7.0)
+    mqtt (0.7.0)
+      logger
     tzinfo (2.0.0)
       concurrent-ruby (~> 1.0)
 
